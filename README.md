@@ -8,9 +8,14 @@ A collection of small notes on things I learn day to day.
 
 ### Categories
 
+* [Science](#Science)
 * [.NET](#.NET)
 
 ---
+
+### Science
+
+- [Gravitational Waves](science/gravitational-waves.md)
 
 ### .NET
 
