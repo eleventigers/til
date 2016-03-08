@@ -24,6 +24,7 @@ A collection of small notes on things I learn day to day.
 ### Unity3D
 
 - [Object Interaction in VR](unity3d/object-interaction-in-vr.md)
+- [Panorama to Skybox](unity3d/panorama-to-skybox.md)
 
 
 ## About
