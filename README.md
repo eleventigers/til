@@ -8,10 +8,16 @@ A collection of small notes on things I learn day to day.
 
 ### Categories
 
+* [Continous Integration](#CI)
 * [Science](#Science)
 * [.NET](#.NET)
+* [Unity3D](#Unity3D)
 
 ---
+
+### CI
+
+- [Encrypted Configuration File](ci/encrypted-configuration-file.md)
 
 ### Science
 
